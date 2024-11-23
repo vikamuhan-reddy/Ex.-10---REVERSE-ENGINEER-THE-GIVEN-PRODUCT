@@ -32,10 +32,10 @@
 
 
 ## Input:
-![Screenshot 2024-10-26 111323](https://github.com/user-attachments/assets/88698a13-827e-4961-b348-3bfb884a8dcb)
+![WhatsApp Image 2024-10-10 at 16 07 41_9c749a30](https://github.com/user-attachments/assets/31b5b7ea-d523-4225-aa7d-404586d09b13)
 
 ### Output:
-![WhatsApp Image 1946-09-02 at 08 32 45](https://github.com/user-attachments/assets/acacfec2-d6d6-4c03-b330-0a3817ba671c)
+![output](https://github.com/user-attachments/assets/27d99338-2d2c-4159-8f24-c177835173dd)
 
 
 
