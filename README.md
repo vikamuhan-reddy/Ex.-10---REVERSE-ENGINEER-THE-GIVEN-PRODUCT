@@ -35,7 +35,8 @@
 ![Screenshot 2024-10-26 111323](https://github.com/user-attachments/assets/88698a13-827e-4961-b348-3bfb884a8dcb)
 
 ### Output:
-![drone-rev](https://github.com/user-attachments/assets/e99ef7f7-6d0a-4f86-a0bc-095585bbabc5)
+![WhatsApp Image 1946-09-02 at 08 32 45](https://github.com/user-attachments/assets/acacfec2-d6d6-4c03-b330-0a3817ba671c)
+
 
 
 ### Name: Vikamuhan reddy 
